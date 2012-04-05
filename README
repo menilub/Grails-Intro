@@ -1,10 +1,11 @@
-code for Grails intro. demo
-90 Min. introduction to Grails framwork while building file sharing service with 
-* Grails project
+code for Grails intro. demo made on Oct. 2011
+Grails 2.0.0.M2
+90 Min. introduction to Grails framwork while building file sharing service with: 
+* Grails concept & project structure 
 * basic configuration 
 * GORM
 * Web with controllers and GSP
 * file upload
 * Plug-ins - Spring seurity for authentication
-
+* Java Melody for monitoring
 More... 
