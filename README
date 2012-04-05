@@ -1,0 +1,10 @@
+code for Grails intro. demo
+90 Min. introduction to Grails framwork while building file sharing service with 
+* Grails project
+* basic configuration 
+* GORM
+* Web with controllers and GSP
+* file upload
+* Plug-ins - Spring seurity for authentication
+
+More... 
